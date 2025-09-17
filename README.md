@@ -67,3 +67,10 @@ Steps:
     ```bash
     yolo predict task=detect model=runs/detect/train/weights/best.pt source='https://youtu.be/VIDEO_ID'
     ```
+![output](https://github.com/user-attachments/assets/11bd2611-e3e2-449e-b521-b0757a1bcc8d)
+
+![output](https://github.com/user-attachments/assets/e462826b-97a6-4876-aef9-7f586063a08d)
+
+Performed these steps on some of the traffic YouTube videos
+
+output videos are stored [here](https://drive.google.com/drive/folders/1NX8nJA103o93LuH2EZuBW1qzkjnIpvHZ?usp=sharing).
